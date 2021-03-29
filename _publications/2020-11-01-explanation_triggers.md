@@ -4,7 +4,7 @@ interaction"
 collection: publications
 permalink: /publication/2020-11-01-explanation_triggers
 excerpt: 'This paper proposes a first overview of when an explanation should be triggered in human-agent interaction and shows that there are many instances that would be missed if the agent solely relies on direct questions.'
-venue: 'NL4XAI @ INLG 2020'
+venue: '2nd Workshop on Interactive Natural Language Technology for Explainable Artificial Intelligence'
 paperurl: 'https://www.aclweb.org/anthology/2020.nl4xai-1.12.pdf'
 citation: 'Krause, L., & Vossen, P. (2020). When to explain: Identifying explanation triggers in human-agent interaction. 2nd Workshop on Interactive Natural Language Technology for Explainable Artificial Intelligence, 55–60. https://www.aclweb.org/anthology/2020.nl4xai-1.12'
 ---
