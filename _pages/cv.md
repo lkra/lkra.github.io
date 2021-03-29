@@ -11,49 +11,80 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* since 2020\
+  PhD Natural Language Processing, Vrije Universiteit Amsterdam, The Netherlands
+* 2019\
+  MSc Speech and Language Processing, The University of Edinburgh, Scotland \
+  Thesis: The Influence of Morphological Word Segmentation on Neural Machine Translation Quality in Very Low-Resource Settings
+  Supervisor: Rico Sennrich
+* 2018\
+  BA Linguistics and Phonetics, Universität zu Köln, Germany \
+  Thesis: What Acquisition Data Can Tell Us About Syntactic and Processing Constraints: A Study on Adnominal Possessive Constructions in English and German Child Language Corpora\
+  Supervisors: Birgit Hellwig & Sonja Eisenbeiss
+* 2016\
+  Erasmus exchange, Universidad de Sevilla, Spain
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 02/2017 – 09/2018: Student Assistant
+  * Institute for Linguitics, Universität zu Köln, Germany
+  * Duties included: Hardware and systems support, setting up online experiments and databased applications
+  * Supervisor: Johanna Mattissen & Claudia Wegener
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 04/2017 – 09/2018: Organisational Committee member (volunteer work)
+  * Forum for Integration and Education e.V. (non-profit)
+  * Duties included: Mentored one of the partner schools and gave weekly English tutorials for a group of students
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+[comment]: <> (Skills)
+
+[comment]: <> (======)
+
+[comment]: <> (* Skill 1)
+
+[comment]: <> (* Skill 2)
+
+[comment]: <> (  * Sub-skill 2.1)
+
+[comment]: <> (  * Sub-skill 2.2)
+
+[comment]: <> (  * Sub-skill 2.3)
+
+[comment]: <> (* Skill 3)
+
+[comment]: <> (Publications)
+
+[comment]: <> (======)
+
+[comment]: <> (  <ul>{% for post in site.publications %})
+
+[comment]: <> (    {% include archive-single-cv.html %})
+
+[comment]: <> (  {% endfor %}</ul>)
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+[comment]: <> (Talks)
+
+[comment]: <> (======)
+
+[comment]: <> (  <ul>{% for post in site.talks %})
+
+[comment]: <> (    {% include archive-single-talk-cv.html %})
+
+[comment]: <> (  {% endfor %}</ul>)
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+[comment]: <> (Teaching)
+
+[comment]: <> (======)
+
+[comment]: <> (  <ul>{% for post in site.teaching %})
+
+[comment]: <> (    {% include archive-single-cv.html %})
+
+[comment]: <> (  {% endfor %}</ul>)
+  
+[comment]: <> (Service and leadership)
+
+[comment]: <> (======)
+
+[comment]: <> (* Currently signed in to 43 different slack teams)
