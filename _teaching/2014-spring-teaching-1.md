@@ -7,7 +7,7 @@ venue: "Vrije Universiteit Amsterdam, CLTL"
 date: 2020-09-01
 location: "Amsterdam, The Netherlands"
 ---
-Designed the following student project, held a weekly paper discussion and supervised the final project.
+Designed the _Ethical considerations for application design in NLP_ student project, held a weekly paper discussion and supervised the final project.
 
 ## Ethical considerations for application design in NLP
 
