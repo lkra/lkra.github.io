@@ -8,6 +8,7 @@ venue: 'Proceedings of the 2nd Workshop on Interactive Natural Language Technolo
 paperurl: 'https://www.aclweb.org/anthology/2020.nl4xai-1.12.pdf'
 citation: 'Krause, L., & Vossen, P. (2020). When to explain: Identifying explanation triggers in human-agent interaction. 2nd Workshop on Interactive Natural Language Technology for Explainable Artificial Intelligence, 55–60. https://www.aclweb.org/anthology/2020.nl4xai-1.12'
 ---
+
 With more agents deployed than ever, users
 need to be able to interact and cooperate with
 them in an effective and comfortable manner.
