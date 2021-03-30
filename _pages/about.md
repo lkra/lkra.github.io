@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /about/
 title: "About"
 excerpt: "Lea Krause"
 author_profile: true
