@@ -11,7 +11,7 @@ author_profile: true
   [Paper](https://aclanthology.org/2022.argmining-1.8.pdf)
   [BibTex](https://aclanthology.org/2022.argmining-1.8.bib)
 
-  * **Towards More Informative List Verbalisations**
+* **Towards More Informative List Verbalisations**
   Krause, L., Sommerauer, Pia, & Vossen, Piek. (2022). Towards More Informative List Verbalisations. Joint Proceedings 
   of the 3th International Workshop on Artificial Intelligence Technologies for Legal Documents (AI4LEGAL 2022) and the 
   1st International Workshop on Knowledge Graph Summarization (KGSum 2022) Co-Located with the 21st International 
