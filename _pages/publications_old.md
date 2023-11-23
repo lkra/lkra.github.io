@@ -6,9 +6,9 @@ author_profile: true
 ---
 ### 2023
 * **The Role of Personal Perspectives in Open-Domain Dialogue: Towards Enhanced Data Modelling and Long-term Memory** \
-  Báez Santamaría, S.<sup>1</sup>, <ins>Krause, L.<sup>1</sup></ins>, Donatelli, L., & Vossen, P. (2023). The Role of Personal Perspectives in Open-Domain Dialogue: Towards Enhanced Data Modelling and Long-term Memory. BNAIC2023, #23. \
+  Báez Santamaría, S.<sup>1</sup>, <ins>Krause, L.<sup>1</sup></ins>, Donatelli, L., & Vossen, P. (2023). The Role of Personal Perspectives in Open-Domain Dialogue: Towards Enhanced Data Modelling and Long-term Memory. BNAIC2023, #23. <sup>1</sup>*equal contribution* \
   [Paper](https://bnaic2023.tudelft.nl/static/media/BNAICBENELEARN_2023_paper_23.a7a48c6078e92bcb7550.pdf)
-  [BibTex]()
+  [BibTex]() 
 
 * **Confidently Wrong: Exploring the Calibration and Expression of (Un)Certainty of Large Language Models in a Multilingual Setting** \
   <ins>Krause, L.</ins>, Tufa, W., Báez Santamaría, S., Daza, A., Khurana, U., & Vossen, P. (2023). Confidently Wrong: Exploring the Calibration and Expression of (Un)Certainty of Large Language Models in a Multilingual Setting. Proceedings of the Workshop on Multimodal, Multilingual Natural Language Generation and Multilingual WebNLG Challenge (MM-NLG 2023), 1-9. \
