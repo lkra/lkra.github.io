@@ -21,7 +21,7 @@ author_profile: true
   [BibTex](https://aclanthology.org/2023.dstc-1.22.bib)
 
 * **[Re] DialSummEval - Revisiting Summarization Evaluation for Dialogues** \
-  Camara P., Kloos M., Kyrmanidi V., Kluska A., Terlou R., & <ins>Krause, L.</ins> (2023). [Re] DialSummEval - Revisiting Summarization Evaluation for Dialogues. ReScience C Journal Volume 9, Issue 2, #14. \
+  Camara, P., Kloos, M., Kyrmanidi, V., Kluska, A., Terlou, R., & <ins>Krause, L.</ins> (2023). [Re] DialSummEval - Revisiting Summarization Evaluation for Dialogues. ReScience C Journal Volume 9, Issue 2, #14. \
   [Paper](https://openreview.net/pdf?id=3jaZ5tKRyiT)
   [BibTex]()
 
