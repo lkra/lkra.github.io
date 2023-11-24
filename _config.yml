@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Lea Krause"
 title_separator          : "-"
 name                     : &name "Lea Krause"
-description              : &description "PhD Student at Vrije Universiteit Amsterdam"
+description              : &description "PhD Candidate at Vrije Universiteit Amsterdam"
 url                      : "https://lkra.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lkra.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Lea Krause"
   avatar           : "lea.JPG"
-  bio              : "PhD Student, Vrije Universiteit Amsterdam"
+  bio              : "PhD Candidate, Vrije Universiteit Amsterdam"
   location         : "Amsterdam 🚲"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
