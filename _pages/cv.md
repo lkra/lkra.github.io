@@ -28,6 +28,10 @@ Education
 
 Work experience
 ======
+* 04/2024 - 06/2024: Visiting Academic
+  * Oxford Internet Institute, University of Oxford, UK
+  * Conducted a research project with Ana Valdivia on the lack of cultural representations in multilingual datasets in NLP.
+
 * 02/2017 – 09/2018: Student Assistant
   * Institute for Linguitics, Universität zu Köln, Germany
   * Duties included: Hardware and systems support, setting up online experiments and databased applications \
